@@ -1,0 +1,19 @@
+text	label	label_desc
+jpmorgan chase	PERSON	People, including fictional
+about 500	CARDINAL	Numerals that do not fall under another type
+this week	DATE	Absolute or relative dates or periods
+new york	GPE	Countries, cities, states
+the year	DATE	Absolute or relative dates or periods
+thousands	CARDINAL	Numerals that do not fall under another type
+about 13,000	CARDINAL	Numerals that do not fall under another type
+one	CARDINAL	Numerals that do not fall under another type
+jamie dimon	PERSON	People, including fictional
+jpmorgan	ORG	Companies, agencies, institutions, etc.
+this week	DATE	Absolute or relative dates or periods
+about 85%	PERCENT	"Percentage, including ""%"""
+first	ORDINAL	"""first"", ""second"", etc."
+roughly 7,000	CARDINAL	Numerals that do not fall under another type
+296,877	CARDINAL	Numerals that do not fall under another type
+march 31	DATE	Absolute or relative dates or periods
+8%	PERCENT	"Percentage, including ""%"""
+a year earlier	DATE	Absolute or relative dates or periods
