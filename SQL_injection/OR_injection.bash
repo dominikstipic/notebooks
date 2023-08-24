@@ -1,0 +1,1 @@
+python main.py -u "admin' OR '1'='1" -p "pass' OR '1'='1"
